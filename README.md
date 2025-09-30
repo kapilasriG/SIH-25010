@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:30.9.2025
+## Register Number:25014208
+## Name:Kapilasri G
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,26 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+This idea is to create a mobile app or chatbot that helps small farmers by giving easy and useful farming tips in their own language. The app will use smart technology to suggest the best crops to grow, how to take care of the soil, and which fertilizers to use. It will also send alerts about weather changes, pests, and diseases that may harm the crops. Farmers can even upload photos of their plants if they see any problems. The app will share current crop prices and has a voice feature to help farmers who cannot read well. By collecting feedback from users, the app will keep improving to give better advice over time.
+![alt text](<Screenshot 2025-09-30 185555.png>)
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+Programming Language: Python (for AI, backend logic) and Dart (for Flutter mobile app).
+
+Frontend: Flutter (for building the mobile app interface).
+
+Backend: Firebase (for real-time database, authentication, cloud  functions) 
+
+Database: MySQL if using a separate server backend.
+
+Hardware: Smartphones/tablets (used by farmers), cloud servers (hosting backend and AI models).
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+This idea can work well because many people already have smartphones, and by using simple language, the app can be made easy for all farmers to use. However, there might be problems like poor internet connection in rural areas and some farmers not being familiar with digital technology. To overcome these issues, the app can include voice instructions and allow some features to work even without internet access.
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+This solution will support farmers to increase their crop production and earn better income by giving them reliable scientific advice. It will help to cut down on extra use of fertilizers, which saves money and protects nature. Besides economic benefits, it will promote smart farming practices and empower small farmers to improve their quality of life.
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+https://www.croplife.com/editorial/best-agriculture-apps/
+https://agmarknet.gov.in/downloadmobileapps.aspx
